@@ -12,7 +12,7 @@ Integration: TensorFlow integrates well with other Google products and services,
 
 **Installation**<br/>
 To install TensorFlow, you can use pip, the Python package manager. Ensure you have Python installed on your system, then run the following command:<br/>
-pip install tensorflow
+pip install tensorflow<br/>
 <br/>
 
 **Documentation**<br/>
